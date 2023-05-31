@@ -15,7 +15,7 @@
 <br>
 <br>
 <div align=center>
-	<p>🎨 My Blog 🎨</p>
+	<h3>🎨 My Blog 🎨</h3>
 </div>
 <div align=center>
 	 <a href="https://dhdev.tistory.com/">
