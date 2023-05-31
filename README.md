@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +26,6 @@
 <br>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitKDH&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=gitKDH&show_icons=true">
 </div>
 
 
